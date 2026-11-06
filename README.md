@@ -57,6 +57,18 @@ to visualize employee attrition and workforce trends.
 This project helped me apply SQL querying and
 Power BI visualization skills to analyze HR data
 and understand employee attrition patterns.
+## Power BI Dashboard Preview
+<img width="952" height="572" alt="image" src="https://github.com/user-attachments/assets/aa142ba2-035b-4c9a-9a25-caaad2523d99" />
+
+## Key Insights
+
+- Overall employee attrition rate is 16.16%.
+- 230 employees have left the organization.
+- Research & Development has the highest attrition count (127).
+- Employees aged 26–35 have the highest attrition count (111).
+- Laboratory Technicians have the highest attrition count by job role (60).
+
+
 
 ---
 Created as part of my Data Analytics Portfolio.
